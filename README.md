@@ -88,7 +88,7 @@ The models tried were, SVR, RandomForestRegressor and Neural Networks. Out of th
 See [Technology.md](Technology.md) for a description of the technologies, languages, tools, and algorithms used in this project. [Requirements.txt](Requirements.txt) contains a list of the packages/modules/libraries needed to run the Jupyter Notebooks (in "analysis_gov_regulation_impact") for the supervised machine learning model. 
 
 ## Dashboard
-[Click here](https://pmmfs.github.io/) to view the dashboard. Files used to create the dashboard are available in the [dashboard repo](https://github.com/pmmfs/pmmfs.github.io). 
+[Click here](https://pmmfs.github.io/) to view the dashboard. Files used to create the dashboard are available in the [dashboard repo](https://github.com/UofT-DataBootcamp-Coursework/pmmfs.github.io). 
 
 ## Resources
 
@@ -102,5 +102,5 @@ See [Technology.md](Technology.md) and [Requirements.txt](Requirements.txt).
 
 ### Other
 - [The dashboard](https://pmmfs.github.io/)
-- [Dashboard repo](https://github.com/pmmfs/pmmfs.github.io) (Contains files used to create the dashboard.)
+- [Dashboard repo](https://github.com/UofT-DataBootcamp-Coursework/pmmfs.github.io) (Contains files used to create the dashboard.)
 - [Google Slides presentation](https://docs.google.com/presentation/d/1sH4ivyYJxLH2zuCJpQTzjlnWvE8RgMRwBxGjeOCTDVo/edit?usp=sharing) (Provides detailed information about the project.)
